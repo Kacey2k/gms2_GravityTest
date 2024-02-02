@@ -1,2 +1,2 @@
 radius = 5;
-attraction_radius = 300;
+attraction_radius = 200;
