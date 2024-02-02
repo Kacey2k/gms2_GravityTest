@@ -1,0 +1,11 @@
+speed = 0;
+direction = random(360);
+gravity_force = 3;
+max_speed = 10;
+radius = 1;
+elasticity = 0.8;
+turn_speed = 0.025;
+acceleration_rate = 0.5;
+damping = 0.99; // for accel
+trail_list = ds_list_create();
+trail_length = 300;
